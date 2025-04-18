@@ -34,8 +34,8 @@ Tables
 | Step  | Used Tools |
 | ------------- |:-------------:|
 |First Exploratory Data Analysis & Joining Tables     |     |
-|Data Cleaning, Advanced Exploratory Data Analysis & First Visualizations  | Power BI    |
-|Advanced Data Visualizations & Dashboard    |     |
+|Data Cleaning, Advanced Exploratory Data Analysis & First Visualizations  |  |
+|Advanced Data Visualizations & Dashboard    |  Power BI    |
 
 ## Data Cleaning and Transformations
 I cleaned the data in Power Query and created the following;
