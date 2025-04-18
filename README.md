@@ -1,6 +1,8 @@
 # Emergency_Room_Hospital_Dashboard
 This dataset provides detailed patient data gathered from a hospital emergency room (ER) dashboard. It is a vital asset for healthcare analytics, aiming to explore patient demographics, treatment results, and the efficiency of ER operations.
 
+[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Emergency_Room_Hospital_Dashboard/blob/main/PowerBI_Dashboard/Dashboard_Snapshot.gif/).
+
 ## Main objective
 The questions we will answer through this analysis are the following :
 - How many patients visited the ER during a specific period?
@@ -51,4 +53,4 @@ I cleaned the data in Power Query and created the following;
 - The average waiting time before patients can see a practitioner is 35 minutes. Consider improving processes and ensuring efficient resource allocation to shorten wait times.
 - Introduce solutions like priority lanes for less critical cases or utilize technology (e.g., scheduling apps) to better manage patient flow.
 
-[PowerBI_Dashboard](https://github.com/David-Tu-Nguyen/Emergency_Room_Hospital_Dashboard/blob/main/PowerBI_Dashboard/Hospital%20Emergency%20Room%20Analysis%20Dashboard.1.pdf/).
+
